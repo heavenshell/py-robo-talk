@@ -1,5 +1,8 @@
 robo.handlers.talk
 ==================
+.. image:: https://travis-ci.org/heavenshell/py-robo-talk.svg?branch=master
+    :target: https://travis-ci.org/heavenshell/py-robo-talk
+
 Talk with you using NTT docomo's dialogue api.
 
 
