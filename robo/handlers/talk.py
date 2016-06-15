@@ -70,4 +70,4 @@ class Talk(object):
             return self.client.talk(message.match.group(0))
         except Exception as e:
             logger.error('Message is {0}', message)
-            logger.error(e)
+            logger.exception(e)
